@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "stream-utils/multi-stream",
   "dependencies": {
-    "readable-stream": "1",
+    "readable-stream": "2.0.5",
     "stream-to-array": "2"
   },
   "devDependencies": {
