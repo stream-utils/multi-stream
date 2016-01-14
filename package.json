@@ -7,7 +7,7 @@
   "repository": "stream-utils/multi-stream",
   "dependencies": {
     "readable-stream": "1",
-    "stream-to-array": "2"
+    "stream-to-array": "2.2.1"
   },
   "devDependencies": {
     "istanbul": "0",
